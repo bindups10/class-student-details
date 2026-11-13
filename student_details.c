@@ -111,7 +111,7 @@ void student_AMULYA_S() {
 }
 
 void student_AMULYA_S_M() {
-    printf("AMULYA S M is absent\n");
+    printf("AMULYA S M is Present\n");
 }
 
 void student_ANAND_SADASHIV_ANK() {
